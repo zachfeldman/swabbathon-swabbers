@@ -17,9 +17,9 @@ Preferred name
 
 Date joined
 
-Three-digit country code as seen on [this Wikipedia entry](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3)
+Three-digit country code as seen on this list: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
 
-URL of registry joined as found on [this BMDW list](http://www.bmdw.org/index.php?id=addresses_members&no_cache=1)
+URL of registry joined as found on this BMDW directory: http://www.bmdw.org/index.php?id=addresses_members&no_cache=1
 ```
 ### Why does this matter
 Well, it saves lives, and leukemia is the most common form of pediatric cancer. Patients need your help, and I want to raise awareness. Many of us have the privileges of wealth, status, or health, and I think maybe as a society we should think more about issues like cancer, because we are getting close to cures for many of its forms, but the donations and donors need to keep flowing. A third (or more) of the population of a developed nation will get cancer in their lifetime. We patients need and are grateful for your help. (°w°)
