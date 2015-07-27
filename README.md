@@ -9,8 +9,8 @@ There is a list of each member nation's registry on the [BMDW site](https://www.
 
 https://join.bethematch.org/ <- This is the main process for donors in the U.S.
 
-ACTUALLY I JUST LEARNED THAT I HAVE AN EXPEDITED URL TO GET IT PROCESSED SOONER BECAUSE MY SECOND ROUND OF TREATMENT STARTS SOON
-http://join.marrow.org/swabsoca 
+http://join.marrow.org/swabsocal
+Another URL that does the same thing and sends the info to the Southern California branch of BTM, might be faster for me
 
 **NOTE**: 
 
