@@ -34,7 +34,7 @@ http://www.iscdp.org
 with a linebreak between each entry, all going into the REGISTERED.md file! Then send me a pull request with some form of evidence that you joined and I'll merge it in and probably love you forever.
 
 **ANOTHER NOTE**:
-Markdown requires extra linebreaks unless you're in a code block so I just made the entire file a code block, I prefer the monospaced font anyway. Please don't remove them.
+Markdown requires extra linebreaks unless you're in a code block so I just made the entire file a code block, I prefer the monospaced font anyway. Please don't remove them. And please put your name inside the code blocks.
 
 ### Why does this matter
 Well, it saves lives, and leukemia is the most common form of pediatric cancer. Patients need your help, and I want to raise awareness. Many of us have the privileges of wealth, status, or health, and I think maybe as a society we should think more about issues like cancer, because we are getting close to cures for many of its forms, but the donations and donors need to keep flowing. A third (or more) of the population of a developed nation will get cancer in their lifetime. We patients need and are grateful for your help. (°w°)
