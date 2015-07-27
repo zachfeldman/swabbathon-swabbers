@@ -13,7 +13,7 @@ https://join.bethematch.org/ <- This is the main process for donors in the U.S.
 
 The Be The Match process online can take up to 6-8 weeks, and I might be needing my donor by then (unless something else happens). If you can go to a local drive, that is likely to be faster.
 ### What is the point of this repo
-I was hoping that when people joined the registry, they provided some evidence so we can keep a list of all the kind people who joined, on GitHub.
+I was hoping that when people joined the registry, they provided some evidence (or not, I'll probably believe you) so we can keep a list of all the kind people who joined, on GitHub.
 The format for posting will be as follows:
 ```
 Preferred name
