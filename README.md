@@ -5,11 +5,12 @@ Hi, I'm m3hr. You might know me personally or online through twitter or IRC or s
 Depending on which country you live in, you should *really*, *really* consider joining your country's bone marrow registry. Also if you know anyone having a child, tell them to donate their baby's umbilical cord blood to a donor registry to save someone's life if a marrow donor can't be found!
 
 ### How do I do that
-There is a list of each member nation's registry on the [BMDW site](https://www.bmdw.org/index.php?id=addresses_members&no_cache=1). Each nation has its own process to join on their The member nation with the most donors registered is the U.S., which is where I am! Joining the U.S. registry is especially helpful to me, but any blood disorder patient around the world needs your help, if you can provide it. I'm also of Middle Eastern background (Iranian), so if you're of Middle Eastern or Mediterranean descent, we are possibly likelier to be a match. But I encourage everyone to join, for all patients who need help. Donating is a safe and painless process, and the chance of getting contacted to donate is 1 in 540.
+There is an international coalition of marrow registries called Bone Marrow Donors Worldwide(and patients from one country can receive donors from another if necessary) as well as a list of each member nation's registry on the [BMDW site](https://www.bmdw.org/index.php?id=addresses_members&no_cache=1). Each nation has its own process to join on their site. The member nation with the most donors registered is the U.S., which is where I am! Joining the U.S. registry is especially helpful to me, but any blood disorder patient around the world needs your help, if you can provide it. I'm also of Middle Eastern background (Iranian), so if you're of Middle Eastern or Mediterranean descent, we are possibly likelier to be a match. But I encourage everyone to join, for all patients who need help. Donating is a safe and painless process, and the chance of getting contacted to donate is 1 in 540.
 
 https://join.bethematch.org/ <- This is the main process for donors in the U.S.
 
 http://join.marrow.org/swabsocal
+
 Another URL that does the same thing and sends the info to the Southern California branch of BTM, might be faster for me
 
 **NOTE**: 
