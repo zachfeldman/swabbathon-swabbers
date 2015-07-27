@@ -11,7 +11,7 @@ https://join.bethematch.org/ <- This is the main process for donors in the U.S.
 
 ### What is the point of this repo
 I was hoping that when people joined the registry, they provided some evidence so we can keep a list of all the kind people who joined, on GitHub.
-The format for posting will be as follows
+The format for posting will be as follows:
 ```
 Preferred name
 Date joined (in Mon DD, YYYY format)
@@ -28,6 +28,6 @@ IRN
 http://www.iscdp.org 
 ```
 
-with a linebreak between each entry, all going into the REGISTERED.md file! 
+with a linebreak between each entry, all going into the REGISTERED.md file! Then send me a pull request with some form of evidence that you joined and I'll merge it in and probably love you forever.
 ### Why does this matter
 Well, it saves lives, and leukemia is the most common form of pediatric cancer. Patients need your help, and I want to raise awareness. Many of us have the privileges of wealth, status, or health, and I think maybe as a society we should think more about issues like cancer, because we are getting close to cures for many of its forms, but the donations and donors need to keep flowing. A third (or more) of the population of a developed nation will get cancer in their lifetime. We patients need and are grateful for your help. (°w°)
