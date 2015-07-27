@@ -20,7 +20,7 @@ The Be The Match process online can take up to 6-8 weeks, and I might be needing
 I was hoping that when people joined the registry, they provided some evidence (or not, I'll probably believe you) so we can keep a list of all the kind people who joined, on GitHub.
 The format for posting will be as follows:
 ```
-Preferred name
+Preferred name (doesn't have to be a real name)
 Date joined (in Mon DD, YYYY format)
 Three-digit country code as seen on this list: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
 URL of registry joined as found on this BMDW directory: http://www.bmdw.org/index.php?id=addresses_members&no_cache=1
